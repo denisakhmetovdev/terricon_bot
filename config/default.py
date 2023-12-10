@@ -11,3 +11,4 @@ load_dotenv(dotenv_path)
 
 bot_token = getenv("BOT_TOKEN")
 admin1 = getenv("ADMIN1")
+db_path = "src/sqlite.db"
